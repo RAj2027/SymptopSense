@@ -4,8 +4,6 @@
 
 > "Right care, at the right time – powered by AI."
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/symptosense) 
-![GitHub stars](https://img.shields.io/github/stars/your-username/symptosense?style=social) 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ---
